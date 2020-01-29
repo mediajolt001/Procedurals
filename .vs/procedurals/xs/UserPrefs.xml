@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C61669C1-C8ED-F2F4-05BB-336E6A2E2DC3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Procedural/Scripts/proceduralCubeSizer.cs">
+    <Files>
+      <File FileName="Assets/Procedural/Scripts/proceduralCube.cs" Line="12" Column="35" />
+      <File FileName="Assets/Procedural/Scripts/proceduralCubeSizer.cs" Line="18" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Procedurals" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Procedural" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="proceduralCubeSizer.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="32fecee9-b46c-4934-87fb-7526e231c671" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

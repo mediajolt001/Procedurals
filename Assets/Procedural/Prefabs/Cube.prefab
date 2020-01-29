@@ -104,10 +104,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0a3ab5889789f24291db93cea00d2cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sizeMin: 0.1
+  sizeMax: 1
   colorPalette:
-  - {r: 1, g: 0, b: 0, a: 0}
-  - {r: 0, g: 0, b: 1, a: 0}
-  - {r: 0, g: 1, b: 0, a: 0}
-  - {r: 1, g: 1, b: 0, a: 0}
-  - {r: 1, g: 0, b: 1, a: 0}
-  - {r: 0, g: 1, b: 1, a: 0}
+  - serializedVersion: 2
+    rgba: 0
+  - serializedVersion: 2
+    rgba: 0
+  - serializedVersion: 2
+    rgba: 0
+  - serializedVersion: 2
+    rgba: 0
+  - serializedVersion: 2
+    rgba: 0
+  - serializedVersion: 2
+    rgba: 0
