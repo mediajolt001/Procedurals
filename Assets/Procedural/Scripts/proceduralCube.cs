@@ -22,6 +22,12 @@ public class proceduralCube : MonoBehaviour
 
     }
 
+    private void Update()
+    {
+        transform.localScale = Vector3.Lerp(lerpStart, lerpEnd, Time.deltaTime * speed);
+        lerpStart = lerpEnd;
+    }
+
     public void Reset()
     {
         xSize = Random.Range(sizeMin, sizeMax);
@@ -32,7 +38,6 @@ public class proceduralCube : MonoBehaviour
         Material cubeRenderer = GetComponent<Renderer>().material;
         cubeRenderer.color = selectedColor;
 
-        transform.localScale = Vector3.Lerp(lerpStart, lerpEnd, 0 * speed);
-        lerpStart = lerpEnd;
+
     }
 }
